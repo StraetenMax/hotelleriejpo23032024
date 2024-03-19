@@ -56,13 +56,13 @@
         </mj-section>
         <mj-section mj-class="d-section">
             <mj-column>
-                <mj-image href="https://ecosup-hotellerie.fr" padding="0" src="img/bdHR27012024-80.jpg" target="_blank" alt="Logo d'Ecosup Hôtellerie" />
+                <mj-image href="https://ecosup-hotellerie.fr" padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/65f99339e4e99239d0d6925b.jpg" target="_blank" alt="Logo d'Ecosup Hôtellerie" />
             </mj-column>
         </mj-section>
         <!--section titre-->
         <mj-section mj-class="d-section">
             <mj-column>
-                <mj-image href="https://ecosup-hotellerie.fr" padding="0px" src="img/afficheJPO23032024.jpg" target="_blank" alt="Affiche de la Journée Portes Ouvertes du samedi 23 mars 2024"/>
+                <mj-image href="https://ecosup-hotellerie.fr" padding="0px" src="https://img.mailinblue.com/3403292/images/content_library/original/65f99340e4e99239d0d69263.jpg" target="_blank" alt="Affiche de la Journée Portes Ouvertes du samedi 23 mars 2024"/>
                 <mj-text align="left" mj-class="d-sous-titre" text-transform="uppercase" font-weight="700" css-class="m-padding">
                    <strong>Invitation à la JPO du 23 mars 2024</strong>
                 </mj-text>
